@@ -1,4 +1,4 @@
-# Introduction to Automation with Python
+# 1. Introduction to Automation with Python
 
 ## What is Automation?
 Automation in Python may refer to the use of the Python programming language to create programs, scripts, or various tools that perform automatic tasks with no use of manual intervention.
