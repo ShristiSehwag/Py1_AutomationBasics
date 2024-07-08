@@ -1,0 +1,21 @@
+How to Automate a Task?
+
+Automating a task might look very complex, but if you know the basics of Python and you follow these steps. You can easily create an automation script.
+
+Step 1: Identify the Task
+Before writing the code, you should have it clear what you want your code to do. So having a clear picture of what the task is, will help you in finishing it.
+
+Step 2: Divide the Task into Smaller Steps
+Now break down the desired task into smaller tasks and achieve the initial goal. After achieving the initial goal you can then go to the next one. Breaking the main goal into smaller goals helps you in solving one problem at a time.
+
+Step 3: Research Python Libraries
+Now you need to find optimal Python libraries that are most suitable for the task. Using the right libraries will increase efficiency and decrease time consumption.
+
+Step 4: Write the Code
+Now you just need to write the Python script, that can automate your desired tasks. Use the right libraries and functions to make writing easier.
+
+Step 5: Test the Code
+After you have completed the writing part, test your code on different instances and variations. Testing your code will help you in finding the issues with your code. It also helps in building confidence in the results.
+
+Step 6: Update the Code
+If your code is not working properly or there are some instances of wrong results, you can update your code and make corrections. In cases where you might want to add additional features to your code, you can do it in this step.
